@@ -33,7 +33,7 @@
     ],
     "branch": "master",
     "license": "BSD-3-Clause",
-    "icon": "https://freemusicarchive.org/legacy/fma-smaller.jpg",
+    "icon": "~/venv/lib/python3.10/site-packages/skill_local_music/ui/music-solid.svg",
     "category": "Music",
     "categories": [
         "Music",
